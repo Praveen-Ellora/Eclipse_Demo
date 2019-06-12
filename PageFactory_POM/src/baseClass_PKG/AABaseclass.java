@@ -12,7 +12,7 @@ public class AABaseclass {
 		System.setProperty("webdriver.chrome.driver","P:\\Hybrid\\Selenium_Scripts\\drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 	    driver.get("http://demo.guru99.com/test/delete_customer.php");
-	    System.out.println("Praveen Raja Naasama poga poran....");
+	    System.out.println("Praveen Raja Naasama poga poran2....");
 	
 	}
 }
